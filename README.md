@@ -1,6 +1,6 @@
 ## Dog Breed Classifier -- Udacity Project
 
-Train a Convolutional Neural Network (CNN) to provide an estimate of the canine’s breed, given an user provided image of a dog.  If supplied an image of a human, the code will identify the resembling dog breed.
+Deeplearning Course Project 1 : Train a Convolutional Neural Network (CNN) to provide an estimate of the canine’s breed, given an user provided image of a dog.  If supplied an image of a human, the code will identify the resembling dog breed.
 
 ### Contents
 0. Initial library setup
